@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class TaskThird {
     public static void main(String[] args) {
-        int[] numbers = {15, 16, 32, 11, 86, 12, 47, 98, 16, 77, 52, 86, 77, 73, 89, 64, };
+        int[] numbers = {15, 16, 32, 11, 86, 12, 47, 98, 16, 77, 52, 86, 77, 73, 89, 64};
         Scanner scanner = new Scanner(System.in);
         boolean isNumberArray = false;
         String indexes = "";
